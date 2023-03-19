@@ -1,4 +1,4 @@
-# doe
+# Doe
 
 A budgeting app focused on goals and saving money.
 
