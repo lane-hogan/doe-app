@@ -1,6 +1,6 @@
 # doe
 
-A new Flutter project.
+A budgeting app focused on goals and saving money.
 
 ## References
 
