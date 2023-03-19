@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## References
+
+The major inspiration for the UI design of this app can be found [on Behance](https://www.behance.net/gallery/147278967/Money-saving-app-UXUi-Case-Study?tracking_source=search_projects_recommended%7CBudget+App).
+
+As mentioned, a lot of inspiration was taken from this design, but there are (and will be) differences in the overall UI.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
